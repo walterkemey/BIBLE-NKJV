@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:verticalSpacing="7dp"
+        android:horizontalSpacing="7dp"
+        android:stretchMode="columnWidth"
+        android:paddingLeft="13dp"
+        android:paddingRight="13dp"
+        />
+    <LinearLayout
+        android:id="@+id/progress"
+        android:gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        >
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:indeterminate="true"
+            style="@style/progress"
+            />
+        <TextView
+            android:id="@+id/bibledata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/bibledata"
+            />
+    </LinearLayout>
+    <WebView
+        android:id="@+id/webview"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5.0"
+        />
+    <com.google.android.gms.ads.AdView
+        android:gravity="bottom"
+        android:layout_gravity="bottom"
+        android:id="@id/adView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-4384625939770339/7070657036"
+        xmlns:ads="http://schemas.android.com/apk/res-auto" />
+    <LinearLayout
+        android:id="@+id/notes"
+        android:gravity="bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        >
+        <EditText
+            android:id="@+id/addnote"
+            android:hint="@string/addnote_hint"
+            android:layout_weight="1.0"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:maxLines="3"
+            android:scrollHorizontally="false"
+            android:imeOptions="actionSend"
+            android:inputType="textCapSentences|textAutoCorrect|textMultiLine|textShortMessage"
+            android:selectAllOnFocus="true"
+            />
+        <FrameLayout
+            android:gravity="bottom"
+            android:layout_gravity="bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            >
+            <Button
+                android:id="@+id/savenote"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/save"
+                />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/unitads"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <!--<com.google.android.gms.ads.AdView-->
+            <!--xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+            <!--android:id="@+id/adView"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentBottom="true"-->
+            <!--android:layout_centerInParent="true"-->
+            <!--ads:adSize="BANNER"-->
+            <!--ads:adUnitId="ca-app-pub-4384625939770339/3779344986"/>-->
+    </LinearLayout>
+
+
+        <!--<com.startapp.android.publish.ads.banner.Banner-->
+            <!--android:id="@+id/startAppBanner1"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_centerHorizontal="true"/>-->
+
+
+
+    <!--<com.google.android.gms.ads.AdView-->
+    <!--xmlns:ads="http://schemas.android.com/apk/res-auto"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--ads:adUnitId="@string/ad_id_banner"-->
+    <!--android:layout_below="@+id/button"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:layout_alignParentBottom="false"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--ads:adSize="BANNER"-->
+    <!--android:id="@+id/adView" />-->
+
+</merge>
+<!-- vim: set sta sw=4 et: -->

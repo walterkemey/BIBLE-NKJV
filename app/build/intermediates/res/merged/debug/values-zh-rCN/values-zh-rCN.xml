@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="versionfullname">
+        <item>ccb|当代译本</item>
+        <item>cunpss|和合本新标点版</item>
+        <item>cunpts|和合本新标点版(繁体)</item>
+        <item>rcuvss|和合本修订版</item>
+        <item>rcuvts|和合本修订版(繁体)</item>
+        <item>niv2011|英文新国际版(NIV)2011</item>
+        <item>niv1984|英文新国际版(NIV)1984</item>
+        <item>kjv|英文钦定版(KJV)</item>
+        <item>nkjv|英文新钦定版(NKJV)</item>
+        <item>nlt|英文新生活版(NLT)</item>
+        <item>amp|Amplified Bible</item>
+        <item>msg|The Message</item>
+        <item>nasb|New American Standard Bible</item>
+        <item>esv|英文标准译本(ESV)</item>
+    </string-array>
+    <string-array name="versionname">
+        <item>ccb|当代译本</item>
+        <item>cunpss|和合本</item>
+        <item>cunpts|和合本繁</item>
+        <item>rcuvss|和合本修</item>
+        <item>rcuvts|和合本繁修</item>
+    </string-array>
+    <plurals name="search_results">
+        <item quantity="other">在“%5$s”中从“%3$s”至“%4$s”共找到%1$d次“%2$s”：</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="about_libraries">第三方库: %s</string>
+    <string name="about_source">项目地址: %s</string>
+    <string name="addnote_hint">笔记内容</string>
+    <string name="annotation">注释</string>
+    <string name="annotation_local">书签和笔记保存在您的设备，不会上传到任何地方。如果您卸载这个应用，或者清除数据，所有书签和笔记将会丢失！</string>
+    <string name="app_name">圣经</string>
+    <string name="bibledata">正在检查圣经数据...</string>
+    <string name="bookmark">添加书签</string>
+    <string name="cancel_install">取消</string>
+    <string name="chapters">%1$s，共%2$s章。</string>
+    <string name="checkversion">自动更新版本列表</string>
+    <string name="checkversion_detail">建议选择<b>%1$s</b>，但这需要您极少数据流量。您可以设置页面更改。</string>
+    <string name="chooseversion">选择版本</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>需要使用一或多项 Google Play 服务，但这些服务目前不可用。请与开发者联系以寻求帮助。"</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"启用 Google Play 服务"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"启用 Google Play 服务"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"获取 Google Play 服务"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"您的手机没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"您的平板电脑没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"获取 Google Play 服务"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"此设备上不存在指定的帐号。请选择其他帐号。"</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"帐号无效"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"您必须有数据网络连接才能接入 Google Play 服务。"</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"网络错误"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"Google Play 服务出错"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"系统不支持通过受限个人资料访问帐号。"</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"受限个人资料"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"登录指定帐号时出错。请选择其他帐号。"</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"登录失败"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务。如果问题一直存在，请与开发者联系以寻求帮助。"</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>必须搭配使用 Google Play 服务才能运行，但您的设备不支持该服务。请与设备制造商联系以寻求帮助。"</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"Google Play 服务"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"更新 Google Play 服务"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"Google Play 服务正在更新"</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"必须使用新版 Google Play 服务。该服务很快就会自行更新。"</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"登录"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"使用 Google 帐号登录"</string>
+    <string name="deletehighlight">取消高亮%s？</string>
+    <string name="deletenote">删除</string>
+    <string name="deleteversion">删除版本%s?</string>
+    <string name="deleteversiondetail">您将不能阅读和搜索%s!</string>
+    <string name="demo">演示</string>
+    <string name="download">下载</string>
+    <string name="download_detail">下载需要消耗数据流量。\n\n是否不再提示？</string>
+    <string name="download_no">提示</string>
+    <string name="download_yes">不再提示</string>
+    <string name="editnote">修改</string>
+    <string name="flink">注释</string>
+    <string name="fontsize">字体大小</string>
+    <string name="fontsummary">适用版本%1$s</string>
+    <string name="fromto">从%1$s到%2$s</string>
+    <string name="help">反馈</string>
+    <string name="install">安装</string>
+    <string name="intro">简介</string>
+    <string name="justify">文字分散对齐</string>
+    <string name="log">调试日志</string>
+    <string name="manageversion">管理版本</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"投射"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"正在搜索设备…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"连接到设备"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"断开连接"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"没有任何相关信息"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"暂停"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"播放"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"路由设置"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"停止投射"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"系统"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"设备"</string>
+    <string name="nightmode">夜间模式</string>
+    <string name="not_found">没有找到</string>
+    <string name="note">笔记</string>
+    <string name="noversion">此版本仅供演示，请转到“管理版本”获取圣经数据。提示：圣经阅读器仅支持外部存储(如SDCARD)。</string>
+    <string name="otherbook">选择其他书卷</string>
+    <string name="pinch">双指缩放</string>
+    <string name="pinch_not_work">可能无法正常使用</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"清除搜索内容"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"搜索"</string>
+    <string name="queryerror">无法打开数据库，请稍候再试。</string>
+    <string name="red">红字</string>
+    <string name="request">获取</string>
+    <string name="request_other_version">获取其它版本</string>
+    <string name="request_version_message">请告知详细版本名称或链接</string>
+    <string name="save">保存</string>
+    <string name="search">在圣经中搜索“%1$s”</string>
+    <string name="search_description">搜索圣经章节，或者关键字</string>
+    <string name="search_hint">经句或关键字</string>
+    <string name="search_no_results">在“%4$s”本中从“%2$s”至“%3$s”无法找到“%1$s”。</string>
+    <string name="searchall">搜索整本圣经</string>
+    <string name="searchfrom">选择开始书卷</string>
+    <string name="searchgospel">搜索四福音书</string>
+    <string name="searchinbible">在圣经中搜索</string>
+    <string name="searchnew">搜索新约圣经</string>
+    <string name="searchold">搜索旧约圣经</string>
+    <string name="searchto">选择结束书卷</string>
+    <string name="settings">设置</string>
+    <string name="share">分享圣经经句至..</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sync">同步</string>
+    <string name="uninstall">删除</string>
+    <string name="update">更新</string>
+    <string name="version">版本</string>
+    <string name="version_hint">版本或描述</string>
+    <string name="versionsynced">圣经数据更新完成: %1$s毫秒</string>
+    <string name="versionsyncing">正在更新圣经数据，请稍等</string>
+    <string msgid="4184147110658930238" name="wallet_buy_button_place_holder">"通过 Google 购买"</string>
+    <string name="wojinred">可用时适用耶稣的话</string>
+    <string name="xlink">交叉引用</string>
+</resources>

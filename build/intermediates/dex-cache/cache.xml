@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dchepz\.android\build-cache\609ebf58a72ee1a97dc23133c171881bb13049bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\android\bibleNKJV\app\build\intermediates\pre-dexed\release\classes_5f9f804d937cfe85efdf1674c57bd188b5470784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dchepz\.android\build-cache\9ba65961a640e81c6ff266797249a9214bcbb685\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\android\bibleNKJV\app\build\intermediates\pre-dexed\release\classes_279f1d0a88fada901c573d229087945e7d99209a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dchepz\.android\build-cache\002345ec186ef6a85b48dfeb27d6fcbd823fdbac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\android\bibleNKJV\app\build\intermediates\pre-dexed\release\classes_a65659f3fee6f9a232fb987e7fbd8d2f8f37ec6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\bibleNKJV\app\libs\StickyListHeaders-29f254.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d63e1f7b2c42265612cfd64b09867aa8da0f805">
+        <dex dex="E:\android\bibleNKJV\app\build\intermediates\pre-dexed\release\StickyListHeaders-29f254_5123636bb5191482244f6f7c1fccf3f5f50b2b7e.jar" />
+    </item>
+
+</items>

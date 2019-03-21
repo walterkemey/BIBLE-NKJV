@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\release\\raw\\versions.json",
+        "source": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\src\\main\\res\\raw\\versions.json"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\release\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\e98a4a2cd789d2fc748808a84fe19dc7588b7e36\\output\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\release\\raw\\nkjv.sqlite3",
+        "source": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\src\\main\\res\\raw\\nkjv.sqlite3"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\release\\raw\\niv84demo.sqlite3",
+        "source": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\src\\main\\res\\raw\\niv84demo.sqlite3"
+    }
+]

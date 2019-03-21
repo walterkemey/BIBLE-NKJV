@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "ron.bible.nkjv"
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+    }
+    lintOptions {
+        disable 'LongLogTag'
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            useProguard true
+           // shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+   compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.google.android.gms:play-services:8.4.0'
+   // compile 'com.android.support:multidex:1.0.1'
+    compile files('libs/StartAppInApp-3.6.2.jar')
+    compile files('libs/StickyListHeaders-29f254.jar')
+}

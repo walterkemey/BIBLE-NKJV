@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\755c0946218a14056e7e5cc29ec41141ae59a996\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\37ca3d2002535da411402ab048562c051886b1bc\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\755c0946218a14056e7e5cc29ec41141ae59a996\\output\\res\\color\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\37ca3d2002535da411402ab048562c051886b1bc\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\755c0946218a14056e7e5cc29ec41141ae59a996\\output\\res\\color\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\755c0946218a14056e7e5cc29ec41141ae59a996\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\new\\bibleNKJV\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Walter\\.android\\build-cache\\74372dee3d76cae7482477629d4ffa86bd017419\\output\\res\\color\\abc_search_url_text.xml"
+    }
+]

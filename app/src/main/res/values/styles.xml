@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="theme" parent="@android:style/Theme.NoTitleBar">
+    </style>
+    <style name="chapter" parent="@android:style/Theme.NoTitleBar">
+    </style>
+    <style name="theme.light" parent="@android:style/Theme.Light.NoTitleBar">
+    </style>
+    <!-- spinner in android 2.X is waste screen space -->
+    <style name="button" parent="@android:style/Widget.Button">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="grid" parent="@android:style/Widget.Button.Toggle">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="progress" parent="@android:style/Widget.ProgressBar">
+    </style>
+</resources>
+<!-- vim: set sta sw=4 et: -->

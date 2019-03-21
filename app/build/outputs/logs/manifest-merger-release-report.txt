@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:2:1-126:12
+	package
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:4:5-43
+	android:versionName
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:6:5-34
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:7:5-73
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Walter\.android\build-cache\9dce291b32090bc509183a1f78c3b785ba88582a\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Walter\.android\build-cache\b49d6dd5fabfb8a6cbdb4d5ab0d81687bf6e00fd\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Walter\.android\build-cache\e98a4a2cd789d2fc748808a84fe19dc7588b7e36\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Walter\.android\build-cache\cc0cccf68dd8e6fd6d061d837e49280d90522c39\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Walter\.android\build-cache\ab11ff65d6b036e1691483c187c13a905e0a2f1b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Walter\.android\build-cache\094d1104ea686f3391a99451f5aeb40a9cb40fc0\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Walter\.android\build-cache\4bf6d91b6dd3191328661173496f1751f31c0343\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Walter\.android\build-cache\74372dee3d76cae7482477629d4ffa86bd017419\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Walter\.android\build-cache\fce894682b10904a77875b2fd0442b158ac23042\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Walter\.android\build-cache\9cd928fc7c807589aac520eecc24b21338d3e1dc\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Walter\.android\build-cache\e8d6f02bbc1c848f86854282993b5fc609982801\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Walter\.android\build-cache\6d9fc0b95cead87674e6bcef7f623ed5a69bcec9\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Walter\.android\build-cache\afc16daf31ffd8409e272db71c0615fad9fd3e2c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Walter\.android\build-cache\046fd67a2287ec8016f37c5e1a8d748fabc7e58b\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\Walter\.android\build-cache\2f5502c33d728564fe60298ecc978cbf22d5235e\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\Walter\.android\build-cache\673f1ce19779a57dc5cdb2288063a5c86b16185f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\Walter\.android\build-cache\8fc9b10d238ce095f48c56ae5b39af1b3c9f2750\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\Walter\.android\build-cache\26a75d6723a964dcf9fad7aeef08f13e66990273\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\Walter\.android\build-cache\37ca3d2002535da411402ab048562c051886b1bc\output\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Walter\.android\build-cache\ab1b5c867f6a9addb690c9febf80bae615a30f69\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Walter\.android\build-cache\34cda12a6161f5749d248b082f33b17ff61fc936\output\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Walter\.android\build-cache\b0e20da0901127ae2f5e23732365175af14ba98d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\Walter\.android\build-cache\755c0946218a14056e7e5cc29ec41141ae59a996\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Walter\.android\build-cache\2f119fc6f68adce823f0c77936f3d0543f88f3d3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Walter\.android\build-cache\d4c14ee565f9d04f950f328a9bee7a6c5a62bed0\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:7:41-70
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:7:15-40
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Walter\.android\build-cache\e98a4a2cd789d2fc748808a84fe19dc7588b7e36\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Walter\.android\build-cache\6d9fc0b95cead87674e6bcef7f623ed5a69bcec9\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Walter\.android\build-cache\34cda12a6161f5749d248b082f33b17ff61fc936\output\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Walter\.android\build-cache\e98a4a2cd789d2fc748808a84fe19dc7588b7e36\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Walter\.android\build-cache\046fd67a2287ec8016f37c5e1a8d748fabc7e58b\output\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Walter\.android\build-cache\34cda12a6161f5749d248b082f33b17ff61fc936\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:12:5-125:19
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\Walter\.android\build-cache\b49d6dd5fabfb8a6cbdb4d5ab0d81687bf6e00fd\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\Walter\.android\build-cache\e98a4a2cd789d2fc748808a84fe19dc7588b7e36\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\Walter\.android\build-cache\cc0cccf68dd8e6fd6d061d837e49280d90522c39\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\Walter\.android\build-cache\ab11ff65d6b036e1691483c187c13a905e0a2f1b\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\Walter\.android\build-cache\094d1104ea686f3391a99451f5aeb40a9cb40fc0\output\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\Walter\.android\build-cache\4bf6d91b6dd3191328661173496f1751f31c0343\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Walter\.android\build-cache\74372dee3d76cae7482477629d4ffa86bd017419\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\Walter\.android\build-cache\fce894682b10904a77875b2fd0442b158ac23042\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\Walter\.android\build-cache\9cd928fc7c807589aac520eecc24b21338d3e1dc\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\Walter\.android\build-cache\e8d6f02bbc1c848f86854282993b5fc609982801\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Walter\.android\build-cache\6d9fc0b95cead87674e6bcef7f623ed5a69bcec9\output\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\Walter\.android\build-cache\afc16daf31ffd8409e272db71c0615fad9fd3e2c\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\Walter\.android\build-cache\046fd67a2287ec8016f37c5e1a8d748fabc7e58b\output\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\Walter\.android\build-cache\2f5502c33d728564fe60298ecc978cbf22d5235e\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\Walter\.android\build-cache\673f1ce19779a57dc5cdb2288063a5c86b16185f\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\Walter\.android\build-cache\8fc9b10d238ce095f48c56ae5b39af1b3c9f2750\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\Walter\.android\build-cache\26a75d6723a964dcf9fad7aeef08f13e66990273\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\Walter\.android\build-cache\ab1b5c867f6a9addb690c9febf80bae615a30f69\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Walter\.android\build-cache\34cda12a6161f5749d248b082f33b17ff61fc936\output\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\Walter\.android\build-cache\b0e20da0901127ae2f5e23732365175af14ba98d\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Walter\.android\build-cache\2f119fc6f68adce823f0c77936f3d0543f88f3d3\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Walter\.android\build-cache\d4c14ee565f9d04f950f328a9bee7a6c5a62bed0\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:14:9-39
+	android:theme
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:16:9-43
+meta-data#com.google.android.gms.version
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\Walter\.android\build-cache\2f119fc6f68adce823f0c77936f3d0543f88f3d3\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:19:13-58
+activity#me.kenyit.bible.Chapter
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:configChanges
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:24:13-74
+	android:theme
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:23:58-88
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:23:19-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:28:27-74
+activity#me.kenyit.bible.PassageChapter
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:31:9-206
+	android:launchMode
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:31:168-203
+	android:exported
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:31:143-167
+	android:configChanges
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:31:81-142
+	android:theme
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:31:50-80
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:31:19-49
+activity#me.kenyit.bible.Search
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:32:9-155
+	android:exported
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:32:128-152
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:32:86-127
+	android:theme
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:32:57-85
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:32:19-56
+activity#me.kenyit.bible.Settings
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:33:9-148
+	android:exported
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:33:121-145
+	android:configChanges
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:33:59-120
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:33:19-58
+activity#me.kenyit.bible.Versions
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:34:9-43:20
+	android:exported
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:34:163-187
+	android:windowSoftInputMode
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:34:121-162
+	android:configChanges
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:34:59-120
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:34:19-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:35:13-42:29
+action#android.intent.action.VIEW
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:37:27-73
+category#android.intent.category.BROWSABLE
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:38:17-78
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:38:27-75
+data
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:39:17-47
+	android:scheme
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:39:23-44
+activity#me.kenyit.bible.Result
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:44:9-146
+	android:exported
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:44:119-143
+	android:configChanges
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:44:57-118
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:44:19-56
+activity#me.kenyit.bible.Passage
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:45:9-76:20
+	android:label
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:45:58-95
+	android:launchMode
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:45:96-127
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:45:19-57
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:65:13-68:29
+action#android.intent.action.SEARCH
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:66:17-71
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:66:25-68
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:69:13-73:29
+action#android.intent.action.SEND
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:70:25-66
+meta-data#android.app.searchable
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:74:13-75:54
+	android:resource
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:75:17-51
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:74:24-61
+activity#com.google.android.gms.ads.AdActivity
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:77:9-79:125
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:79:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:78:13-65
+activity#com.startapp.android.publish.ads.list3d.List3DActivity
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:82:9-84:52
+	android:theme
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:83:13-82
+activity#com.startapp.android.publish.adsCommon.activities.OverlayActivity
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:85:9-88:64
+	android:configChanges
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:87:13-74
+	android:theme
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:88:13-61
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:86:13-93
+activity#com.startapp.android.publish.adsCommon.activities.FullScreenActivity
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:89:9-92:52
+	android:configChanges
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:91:13-74
+	android:theme
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:90:13-96
+service#com.startapp.android.publish.common.metaData.PeriodicMetaDataService
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:95:9-104
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:95:18-101
+service#com.startapp.android.publish.common.metaData.InfoEventService
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:96:9-97
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:96:18-94
+receiver#com.startapp.android.publish.common.metaData.BootCompleteListener
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:97:9-101:20
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:97:19-99
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:98:13-100:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:99:17-79
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:99:25-76
+provider#me.kenyit.bible.Provider
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:104:9-105:62
+	android:authorities
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:105:13-59
+	android:exported
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:104:59-83
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:104:19-58
+provider#me.kenyit.bible.Suggestion
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:106:9-108:69
+	android:authorities
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:107:13-50
+	android:permission
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:108:13-66
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:106:19-60
+receiver#me.kenyit.bible.Receiver
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:109:9-124:20
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:109:19-58
+intent-filter#android.intent.action.PACKAGE_ADDED
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:110:13-113:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:111:17-78
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:111:25-75
+intent-filter#android.provider.Telephony.SECRET_CODE
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:114:13-117:29
+action#android.provider.Telephony.SECRET_CODE
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:115:17-81
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:115:25-78
+intent-filter#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:118:13-120:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:119:17-82
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:119:25-79
+intent-filter#android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:121:13-123:29
+action#android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED
+ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:122:17-94
+	android:name
+		ADDED from D:\AndroidProjects\new\bibleNKJV\app\src\main\AndroidManifest.xml:122:25-91
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\Walter\.android\build-cache\de4fdabbcfaea2a7e53242e298c1bdc49aa5b084\output\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:22:17-48
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\Walter\.android\build-cache\70f65653aceb4ce9a1fb069a56092826495e2985\output\AndroidManifest.xml:26:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\Walter\.android\build-cache\a427cb33eca1b57a249f9654bd7091f2b263d7f5\output\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Walter\.android\build-cache\6d9fc0b95cead87674e6bcef7f623ed5a69bcec9\output\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\Walter\.android\build-cache\6d9fc0b95cead87674e6bcef7f623ed5a69bcec9\output\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\Walter\.android\build-cache\abdd470f5d1827de2441e8b9ef2e2281263f1106\output\AndroidManifest.xml:42:11-82
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Walter\.android\build-cache\34cda12a6161f5749d248b082f33b17ff61fc936\output\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Walter\.android\build-cache\34cda12a6161f5749d248b082f33b17ff61fc936\output\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\Walter\.android\build-cache\34cda12a6161f5749d248b082f33b17ff61fc936\output\AndroidManifest.xml:24:8-31
